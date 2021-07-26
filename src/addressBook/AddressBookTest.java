@@ -120,7 +120,7 @@ public class AddressBookTest {
             		}
             		
             		System.out.println("Matching Entries: ");
-            		System.out.println("******************=[");
+            		System.out.println("******************");
             		
             		for (AddressBookEntry entry1: lookUp) {
             			if (entry1.getFirstName().equals("not found")) {
